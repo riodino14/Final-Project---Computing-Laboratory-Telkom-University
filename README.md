@@ -3,6 +3,19 @@
 I'm excited to announce the completion of my final project for the SGA Data Science and Machine Learning Computing Laboratory at Telkom University! The project involved creating an AI-powered chatbot using VertexAI, with the user interface built in Streamlit.
 
 The chatbot was developed around the topic of Kabinet Baskara HIMA IF Universitas Telkom 2024, an organization within Telkom University that focuses on student engagement in Informatics based on the principles of Tridharma Perguruan Tinggi and Pancasila.
+<details>
+<summary>📸  Chatbot Screenshot </summary>
+
+<img  width="726" height="807" alt="image" src="https://github.com/user-attachments/assets/e34bf748-1115-4965-8788-dd0d98696abe" width="500"/>
+<img  width="718" height="564" alt="image" src="https://github.com/user-attachments/assets/80e114b7-4a6f-489b-8099-b1f19368bf26" />
+<img width="763" height="824" alt="image" src="https://github.com/user-attachments/assets/ecd0ee9b-47d8-4aaa-9fb1-6e9689f727e8" />
+<img width="931" height="428" alt="image" src="https://github.com/user-attachments/assets/fea05c3e-97de-4ca6-8fb6-beec031c4671" />
+
+
+</details>
+
+
+
 
 Key features of the chatbot include:
 
